@@ -1,4 +1,6 @@
 # rsg-menu
-Older version rsg-menu but updated a bit more than most
+Menu System for the RSGCore Framework
 
-all credits go to Rexshack as it came with his framework but just a few more updates than original.
+# Credit
+- credit goes to the QBCORE team for basecode and functionality
+- sytling Humanity Is Insanity#3505 & Zee#2115 from The Crossroads RP
